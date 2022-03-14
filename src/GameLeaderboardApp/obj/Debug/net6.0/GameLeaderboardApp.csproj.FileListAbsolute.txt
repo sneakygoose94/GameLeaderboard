@@ -1,0 +1,15 @@
+G:\KursC#\GameLeaderboard\src\GameLeaderboardApp\bin\Debug\net6.0\GameLeaderboardApp.exe
+G:\KursC#\GameLeaderboard\src\GameLeaderboardApp\bin\Debug\net6.0\GameLeaderboardApp.deps.json
+G:\KursC#\GameLeaderboard\src\GameLeaderboardApp\bin\Debug\net6.0\GameLeaderboardApp.runtimeconfig.json
+G:\KursC#\GameLeaderboard\src\GameLeaderboardApp\bin\Debug\net6.0\GameLeaderboardApp.dll
+G:\KursC#\GameLeaderboard\src\GameLeaderboardApp\bin\Debug\net6.0\ref\GameLeaderboardApp.dll
+G:\KursC#\GameLeaderboard\src\GameLeaderboardApp\bin\Debug\net6.0\GameLeaderboardApp.pdb
+G:\KursC#\GameLeaderboard\src\GameLeaderboardApp\obj\Debug\net6.0\GameLeaderboardApp.csproj.AssemblyReference.cache
+G:\KursC#\GameLeaderboard\src\GameLeaderboardApp\obj\Debug\net6.0\GameLeaderboardApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\KursC#\GameLeaderboard\src\GameLeaderboardApp\obj\Debug\net6.0\GameLeaderboardApp.AssemblyInfoInputs.cache
+G:\KursC#\GameLeaderboard\src\GameLeaderboardApp\obj\Debug\net6.0\GameLeaderboardApp.AssemblyInfo.cs
+G:\KursC#\GameLeaderboard\src\GameLeaderboardApp\obj\Debug\net6.0\GameLeaderboardApp.csproj.CoreCompileInputs.cache
+G:\KursC#\GameLeaderboard\src\GameLeaderboardApp\obj\Debug\net6.0\GameLeaderboardApp.dll
+G:\KursC#\GameLeaderboard\src\GameLeaderboardApp\obj\Debug\net6.0\ref\GameLeaderboardApp.dll
+G:\KursC#\GameLeaderboard\src\GameLeaderboardApp\obj\Debug\net6.0\GameLeaderboardApp.pdb
+G:\KursC#\GameLeaderboard\src\GameLeaderboardApp\obj\Debug\net6.0\GameLeaderboardApp.genruntimeconfig.cache
