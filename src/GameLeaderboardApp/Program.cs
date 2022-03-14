@@ -1,13 +1,20 @@
 ﻿using System;
+using System.Collections.Generic;
 
-namespace GameLeaderboard
+namespace GameLeaderboardApp
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine( "Hello" + args[0]);
-           
+            var player = new Player("Ducksu");
+            
+            player.AddScore(549);
+
+            // player.ShowScoring();
+
+            var score = player.GetScoring();
+
         }
     }
 }
